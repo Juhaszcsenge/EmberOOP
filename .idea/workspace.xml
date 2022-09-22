@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e5fb64e-d2c0-4f1e-9f41-36116e433d3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emberek.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Ember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Ember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmberOOP/hu/petrik/emberekoop/Emberek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmberOOP/hu/petrik/emberekoop/Emberek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmberOOP/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmberOOP/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +34,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Diák\Desktop\ EmberOOP" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Diák\Desktop\ EmberOOP\src\hu\petrik\emberekoop" />
     </key>
@@ -68,11 +75,37 @@
       <option name="project" value="LOCAL" />
       <updated>1663855522419</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" Konstruktor alapján töltjük fel a listát">
+      <created>1663857659472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663857659472</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" Konstruktor alapján töltjük fel a listát">
+      <created>1663857728377</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663857728377</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ember osztályban elkészültek az adat tagok egy paraméteres Constructor és egy ToString metódus" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ember osztályban elkészültek az adat tagok egy paraméteres Constructor és egy ToString metódus" />
+    <MESSAGE value=" Konstruktor alapján töltjük fel a listát" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Konstruktor alapján töltjük fel a listát" />
   </component>
 </project>
