@@ -23,7 +23,7 @@ public class main {
              System.out.println("Ismeretlen hiba történt");
          }
          }
-
+////
        /* System.out.println(ek);
 
         System.out.println(e1);
